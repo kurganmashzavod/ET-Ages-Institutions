@@ -1,0 +1,3 @@
+﻿NGame = {
+    START_DATE = "2.11.11"
+}
