@@ -1,0 +1,13 @@
+{
+	"name":	"ET5 Ages, Institutions, Buildings",
+	"id":	"kurganmashzavod.et5",
+	"version":	"0.1",
+	"supported_game_version":	"1.3.*",
+	"short_description":	"ET5 Ages, Institutions, Buildings",
+	"tags":	["Balance", "Gameplay", "Historical", "Overhaul"],
+	"relationships":	[],
+	"game_custom_data":	{
+		"in_game/common/age",
+        "in_game/common/institution"
+	}
+}
